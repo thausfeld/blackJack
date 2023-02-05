@@ -66,7 +66,7 @@ if __name__ == '__main__':
             dealer.fundChange(0)
             player.fundChange(1)
         elif winner == 2:
-            print("\n\nIts a push!")
+            print("\n\nIt's a push!")
 
         print(f'Your Cards: {player.cardNames}')
         print(f'Dealers Cards: {dealer.cardNames}')
