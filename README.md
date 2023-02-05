@@ -1,5 +1,6 @@
 # Blackjack
-I started this project by making the game playable in the terminal. Later on, I want to add a GUI and maybe find a way to embed it into my personal website.
+This project was first made in Python which I started by making playable in the terminal. Later on, I want to add a GUI and maybe find a way to embed it into my personal website.
+I also made this in C# to learn about the language.
 
 To play the game, download the 'blackJack.py' file which you can run in your command prompt. A round of gameplay should look like this...
 
